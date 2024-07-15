@@ -50,7 +50,7 @@ with Kubernetes and Docker to build scalable, secure, and maintainable apps.
   <img height="120em" src="./assets/hashicorp-certified-terraform-associate-002.png"/>
 </a>
 
-### Projects and Dev Stuffs:
+### Dev Stuff:
 
 <details open>
   <summary><b>⚡ Github Stats</b></summary>
