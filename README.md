@@ -15,16 +15,16 @@ with Kubernetes and Docker to build scalable, secure, and maintainable apps.
 
 <img align="right" alt="Coding Cat" src="./assets/coding.webp" />
 
-### Let's talk about personal stuffs:
+### My Hobbies and Info:
 
-- 🛠&nbsp; I'm constantly improving my personal Kubernetes cluster, completely built using Terraform.
+- 🛠&nbsp; I'm constantly improving my personal Kubernetes cluster, completely built using Terraform and CI/CD pipelines.
 - 🔐&nbsp; I’m currently exploring [1Password Service Accounts](https://blog.1password.com/1password-service-accounts/)
   for securing CI/CD pipelines.
 - 👨🏻‍💻&nbsp; Most of my projects are available on [GitHub](https://github.com/sswensen).
 - 🤓&nbsp; Fun fact: I can sometimes [exit vim](./assets/vim.jpg).
 - 📫&nbsp; How to contact me: [hello@scottswensen.com](mailto:hello@scottswensen.com).
 
-### My passions:
+### My Passions:
 
 - 💻 &nbsp; Exploring bleeding-edge tech stacks and developing new deployment strategies.
 - 🔬 &nbsp; Deploying new apps and iterating my Homelab whenever possible.
