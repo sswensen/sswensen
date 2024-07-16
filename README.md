@@ -11,7 +11,7 @@
 
 DevOps and Software Engineering is something which coincides with my passion and hobby. Always up for a discussion on
 software, business, and other opportunities. Lately, I have been immersed in a world of infrastructure as code, working
-with Kubernetes and Docker to build scalable, secure, and maintainable apps.
+with Kubernetes and Docker to build and deploy scalable, secure, and maintainable apps.
 
 <img align="right" alt="Coding Cat" src="./assets/coding.webp" />
 
