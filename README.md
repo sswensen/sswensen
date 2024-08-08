@@ -49,8 +49,6 @@ with Kubernetes and Docker to build and deploy scalable, secure, and maintainabl
 <a href="https://www.credly.com/badges/969973c0-086f-4e93-994e-f13d4822edf2/public_url">
   <img height="120em" src="./assets/hashicorp-certified-terraform-associate-002.png"/>
 </a>
-
-
 <a href="https://www.linkedin.com/in/scott-swensen">
   <img height="120em" src="./assets/security-plus-ce.png"/>
 </a>
