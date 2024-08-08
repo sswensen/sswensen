@@ -50,6 +50,11 @@ with Kubernetes and Docker to build and deploy scalable, secure, and maintainabl
   <img height="120em" src="./assets/hashicorp-certified-terraform-associate-002.png"/>
 </a>
 
+
+<a href="https://www.linkedin.com/in/scott-swensen">
+  <img height="120em" src="./assets/security-plus-ce.png"/>
+</a>
+
 ### Dev Stuff:
 
 <details open>
