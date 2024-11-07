@@ -51,7 +51,7 @@ with Kubernetes and Docker to build and deploy scalable, secure, and maintainabl
 
 ### Dev Stuff:
 
-<details open>
+<details>
   <summary><b>⚡ Github Stats</b></summary>
   <img height="160em" src="https://github-readme-stats-five-orcin-34.vercel.app/api?username=sswensen&layout=compact&hide_border=true&count_private=true&show_icons=true&theme=one_dark_pro&hide=contribs&rank_icon=github"/>
   <img height="160em" src="https://github-readme-stats-five-orcin-34.vercel.app/api/top-langs/?username=sswensen&hide=html,Jupyter%20Notebook&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=one_dark_pro"/>
